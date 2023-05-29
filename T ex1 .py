@@ -1,0 +1,11 @@
+numero=float ( input ("Digite o numero aqui:  ")  )
+
+print("O valor e : ",numero * 1 )
+print("O valor e : ",numero * 2 )
+print("O valor e : ",numero * 3 )
+print("O valor e : ",numero * 4 )
+print("O valor e : ",numero * 5 )
+print("O valor e : ",numero * 6)
+print("O valor e : ",numero * 7 )
+print("O valor e : ",numero * 8 )
+print("O valor e : ",numero * 9 )
